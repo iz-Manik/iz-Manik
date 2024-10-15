@@ -2,8 +2,10 @@
 
 <h3 align="center">A passionate developer with a keen interest in cutting-edge technologies and a love for innovation.</h3>
 
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center"> 
+<p > 
   <img src="https://komarev.com/ghpvc/?username=iz-manik&label=Profile%20views&color=0e75b6&style=flat" alt="iz-manik" /> 
 </p>
 
@@ -51,3 +53,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iz-manik" alt="GitHub Streak" />
 </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iz-manik&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
