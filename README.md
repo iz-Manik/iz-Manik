@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @iz-Manik
-- Welcome to my GitHub profile. Here's a little bit about me:
--👀 Interests: I'm deeply passionate about specific technologies, e.g., artificial intelligence, machine learning, blockchain, etc. I love exploring new advancements and pushing the boundaries of what's possible with technology.
-- 🌱 I’m currently learning advanced algorithms, full-stack development, DevOps, etc.I am  always on the lookout to broaden my skill set and stay up-to-date with industry trends.
--💞️ Collaboration: I'm excited to collaborate on open-source projects, innovative startups, and anything that has the potential to make a significant impact. If you have a project in specific area, e.g., AI, web development, mobile apps, let's connect!
-- 📫 How to reach me: Feel free to reach out via  email, LinkedIn. I'm always open to discussing new ideas and opportunities.
-- 😄 Pronouns: [He/Him, She/Her, They/Them]
+# Hi 👋, I'm Manik Chauhan
 
-<!---
-iz-Manik/iz-Manik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+A passionate programmer from India who enjoys building software.
+
+![Profile Views](https://komarev.com/ghpvc/?username=iz-manik&style=flat-square)
+
+## Connect with me:
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/manik-chauhan-9730a0285/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](https://www.instagram.com/iz_manik/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/iz-manik)
+
+## Languages and Tools:
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<!-- Add more badges for technologies you know -->
+
+## GitHub Stats:
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=iz-manike&show_icons=true&theme=radical)
+
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iz-manik&layout=compact&theme=radical)
+
 --->
