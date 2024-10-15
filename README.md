@@ -23,10 +23,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 <!-- Add more badges for technologies you know -->
 
-## GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=iz-manik&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iz-manik&show_icons=true&locale=en&layout=compact" alt="iz-manik" /></p>
 
-## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iz-manik&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iz-manik&show_icons=true&locale=en" alt="iz-manik" /></p>
 
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iz-manik&" alt="iz-manik" /></p>
+
