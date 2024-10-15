@@ -1,15 +1,21 @@
-# Hi 👋, I'm Manik Chauhan
+<h1 align="center">Hi 👋, I'm Manik Chauhan</h1>
 
-A passionate programmer from India who enjoys building software.
+<h3 align="center">A passionate developer with a keen interest in cutting-edge technologies and a love for innovation.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iz-manik&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iz-manik&label=Profile%20views&color=0e75b6&style=flat" alt="iz-manik" /> </p>
 
-## Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/manik-chauhan-9730a0285/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](https://www.instagram.com/iz_manik/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/iz-manik)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manik-chauhan-9730a0285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manik-chauhan-9730a0285" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/23242633/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23242633" height="30" width="40" /></a> -->
+<a href="https://instagram.com/iz_manik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iz_manik" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/volcandrabuzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/volcandrabuzz" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Hi_Tanishq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Hi_Tanishq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Volcandrabuzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Volcandrabuzz/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/volcandrabuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/volcandrabuzz" height="30" width="40" /></a> -->
+</p>
 
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
