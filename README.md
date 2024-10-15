@@ -18,7 +18,7 @@ A passionate programmer from India who enjoys building software.
 <!-- Add more badges for technologies you know -->
 
 ## GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=iz-manike&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=iz-manik&show_icons=true&theme=radical)
 
 ## Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iz-manik&layout=compact&theme=radical)
