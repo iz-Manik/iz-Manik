@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manik Chauhan</h1>
 <h3 align="center">A passionate developer with a keen interest in cutting-edge technologies and a love for innovation.</h3>
-
+<img align = "right" alt = "coding" width = "400" src ="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.filestackcontent.com%2fefbSR18hT5uRKuo0zoMA&ehk=zs%2bkK9YczPNWfn9uKYeHtyVFDP63Xmr9DOGFN0llU3c%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iz-manik&label=Profile%20views&color=0e75b6&style=flat" alt="iz-manik" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
