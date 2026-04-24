@@ -23,17 +23,47 @@
 
 ## 🧑‍💻 About Me
 
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%" valign="middle">
+  <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="Coding GIF" width="95%"/>
+</td>
+<td width="50%" valign="middle">
+
 ```yaml
-name: Manik Chauhan
-location: India 🇮🇳
-role: Full-Stack Developer & ML Enthusiast
-focus:
-  - Building scalable web applications
-  - Exploring AI & Machine Learning
-  - Competitive Programming
-currently_learning: [System Design, Cloud Architecture, LLMs]
-fun_fact: I debug with coffee ☕ and commit at midnight 🌙
+name     : Manik Chauhan
+location : India 🇮🇳
+role     : Full-Stack Dev & ML Enthusiast
+focus    :
+  ▸ Scalable web applications
+  ▸ AI & Machine Learning
+  ▸ Competitive Programming
+learning : System Design · Cloud · LLMs
+open_to  : Collaborations & Internships
+fun_fact : Debugs with coffee ☕
+           Commits at midnight 🌙
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ What I'm Up To
+
+<div align="center">
+
+| 🔭 Currently Building | 🌱 Currently Learning | 👯 Open To | 💬 Ask Me About |
+|:---:|:---:|:---:|:---:|
+| Full-stack & AI projects | System Design & LLMs | Collaborations & Open Source | Web Dev, ML, DSA, Spring |
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
 
 ---
 
